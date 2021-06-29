@@ -1,6 +1,8 @@
 # Flight Paths Visualization
 
-## Goal: This project aims at developing an interactive map to visualize the flight paths starting from each airport in the United States so that the public can use it as a reference to choose their preferred flights.
+**Goal**: This project aims at developing an interactive map to visualize the flight paths starting from each airport in the United States so that the public can use it as a reference to choose their preferred flights.
+
+**Data Source**: Flight Delay and Cancellation Data by the DOT's Bureau of Transportation Statistics
 
 <img width="960" alt="default" src="https://user-images.githubusercontent.com/70075254/123836209-0cd44580-d8cf-11eb-9a27-b04c1373bf50.png">
 
