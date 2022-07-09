@@ -2,11 +2,10 @@
 
 **Goal**: This project aims at developing an interactive map to visualize the flight paths starting from each airport in the United States so that the public can use it as a reference to choose their preferred flights.
 
-**Data Source**: Flight Delay and Cancellation Data by the DOT's Bureau of Transportation Statistics
-
+**Data Source**: [Flight Delay and Cancellation Data by the DOT's Bureau of Transportation Statistics](https://www.kaggle.com/usdot/flight-delays)
 <img width="960" alt="default" src="https://user-images.githubusercontent.com/70075254/123836209-0cd44580-d8cf-11eb-9a27-b04c1373bf50.png">
 
-The above shows an example of the mechanics of this map. Users are welcome to select the starting airport by clicking the drop down menu. Once the airport is chosen, the map will automatically show all the flight paths that start from this airport as well as the destinations associated with them. People can view more detailed information regarding the flight path by moving the computer mouse to a specific flight path. 
+The above shows an example of the mechanics of this map. Users are welcome to select the starting airport by clicking the drop down menu. Once the airport is chosen, the map will automatically show all the flight paths that start from this airport as well as the destinations associated with them. 
 
 Here is another example of choosing a different starting airport.
 
