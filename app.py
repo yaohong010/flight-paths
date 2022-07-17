@@ -12,7 +12,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 airports = pd.read_csv("airports.csv")
-flights = pd.read_csv("flights.csv", low_memory = False)
+flights = pd.read_csv("flights.zip", low_memory = False, compression = "zip")
 
 # fill in missing values
 #airports.loc[airports['LATITUDE'].isnull(),]
